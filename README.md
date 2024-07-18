@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joao14m
 - 👀 I’m interested in learning programming and workout 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Javascript, HTML, CSS, and Java. 
 - 💞️ I’m looking to collaborate on projects that involve C#
 - 📫 How to reach me joaomarsil4@gmail.com
 
