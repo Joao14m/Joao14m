@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">João Marcelo 💾 Software Engineer</h1>
 
-I'm a Computer Science graduate from the University of Central Florida, passionate about the theory and practicdal applications of computing across software and hardware. 
+I'm a Computer Science graduate from the University of Central Florida, passionate about the theory and practical applications of computing across software and hardware. I'm looking forward to building new applications and features that make a difference in the software communnity. When I'm not coding, I'm running, working out, practicing a new sport, or playing games. 
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
