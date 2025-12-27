@@ -6,9 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Computer Science graduate from the University of Central Florida, curious about the theory and practical applications of computing across software and hardware. I'm looking forward to building new applications and features that make a difference in the software community. When I'm not coding, I'm running, working out, practicing a new sport, watching soccer, or playing games. 
 
-#### Currently Building
+#### Currently Working on:
 - Pub
 - Remaking personal website
+- Acquiring AWS Certified Cloud Practitioner certifications
 
 ---
 
@@ -25,6 +26,13 @@ I'm a Computer Science graduate from the University of Central Florida, curious 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,postman,swagger&perline=6" />
 </p>
+
+---
+
+### 🏢 Experience
+#### **Software Engineer | 8800 Software Inc. (Internship)**
+*May 2025 - December 2025 | Oviedo, FL | On-site*
+**Skills**: C#, JavaScript, HTML, CSS, ASP.NET Core and WebForms, SQL Server, jQuery, Ajax, Bootstrap
 
 ---
 
