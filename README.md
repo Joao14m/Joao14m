@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center">João Marcelo 💾 Software Engineer</h1>
 
-I'm a Computer Science graduate from the University of Central Florida, passionate about the theory and practical applications of computing across software and hardware. I'm looking forward to building new applications and features that make a difference in the software community. When I'm not coding, I'm running, working out, practicing a new sport, watching soccer, or playing games. 
+I'm a Computer Science graduate from the University of Central Florida, curious about the theory and practical applications of computing across software and hardware. I'm looking forward to building new applications and features that make a difference in the software community. When I'm not coding, I'm running, working out, practicing a new sport, watching soccer, or playing games. 
 
 #### Currently Building
 - Pub
