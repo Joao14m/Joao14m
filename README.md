@@ -8,7 +8,16 @@ I'm a Computer Science graduate from the University of Central Florida, passiona
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,ts,python,js,c,php,html,css,spring,react,nextjs,bootstrap,mysql,postgres,mongodb,docker,githubactions,aws,git,postman,swagger&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,java,ts,python,js,c,php,html,css&perline=9" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nextjs,bootstrap&perline=5" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,postman,swagger&perline=6" />
 </p>
 
 ## Connect with me
