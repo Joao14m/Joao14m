@@ -2,8 +2,6 @@
 Joao14m/Joao14m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![readmepp](https://github.com/user-attachments/assets/505834b3-c00d-40cd-b06a-7b3771e4404c)
-
 # João Marcelo 💾 Software Engineer
 
 I'm a Computer Science graduate from the University of Central Florida, passionate about the theory and practicdal applications of computing across software and hardware. 
