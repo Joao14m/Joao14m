@@ -10,6 +10,7 @@ I'm a Computer Science graduate from the University of Central Florida, passiona
 - Pub
 - Remaking personal website
 
+---
 
 <h3 align="center">Tech Stack</h2>
 <p align="center">
@@ -24,6 +25,8 @@ I'm a Computer Science graduate from the University of Central Florida, passiona
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,postman,swagger&perline=6" />
 </p>
+
+---
 
 <h3 align="center">Connect with me</h2>
 <p align="center">
