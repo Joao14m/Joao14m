@@ -14,7 +14,7 @@ I'm a Computer Science graduate from the University of Central Florida, curious 
 
 <h3 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,ts,python,js,c,php,html,css&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,ts,js,c,php,html,css&perline=9" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nextjs,bootstrap&perline=5" />
