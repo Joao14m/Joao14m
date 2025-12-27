@@ -10,11 +10,6 @@ I'm a Computer Science graduate from the University of Central Florida, passiona
 - Pub
 - Remaking personal website
 
-#### Proudest Projects
-- AskKnightro
-- Focus Flow
-- Serpentine (Snake)
-
 ---
 
 <h3 align="center">Tech Stack</h2>
