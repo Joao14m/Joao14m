@@ -29,7 +29,7 @@ I'm a Computer Science graduate from the University of Central Florida, curious 
 
 ---
 
-## 🏢 Experience  
+<h2 align="center">🏢 Experience</h2>  
 ### **Software Engineer | 8800 Software Inc. (Internship)**  
 *May 2025 - December 2025 | Oviedo, FL | On-site*  
 **Skills**: C#, JavaScript, HTML, CSS, ASP.NET Core and WebForms, SQL Server, jQuery, Ajax, Bootstrap  
