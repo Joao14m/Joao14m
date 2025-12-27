@@ -24,7 +24,7 @@ I'm a Computer Science graduate from the University of Central Florida, curious 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,postman&perline=5" />![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=flat)
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,postman&perline=5" />
 </p>
 
 ---
