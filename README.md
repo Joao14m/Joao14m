@@ -9,7 +9,7 @@ I'm a Computer Science graduate from the University of Central Florida, curious 
 #### Currently Working on:
 - Pub
 - Remaking personal website
-- Acquiring AWS Certified Cloud Practitioner certifications
+- Pursuing AWS Certified Cloud Practitioner certification
 
 ---
 
